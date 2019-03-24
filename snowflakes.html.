@@ -1,0 +1,16 @@
+ <!DOCTYPE html>
+ <html lang="en">
+ <head>
+   <meta charset="utf-8" />
+   <title>Rotating Snowflakes</title>
+   <link rel="stylesheet" href="snowStyle.css" />
+ </head>
+ <body>
+   <div id="container">
+     <figure id="photo"><img src="Snowflake1.png" id="image" /></figure>
+     <p id="hovertxt">Hover mouse over me</p>
+     <p id="attribution">Image taken from 
+       <cite><a href="http://www.clipartkid.com/" target="_blank">clipartkid.com</a></cite>
+   </div>
+ </body>
+ </html>
