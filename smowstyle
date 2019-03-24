@@ -1,0 +1,26 @@
+ #container {
+  width: 600px;
+  height: 600px;
+ }
+ #photo img {
+  height: 250px;
+  opacity: 0.5;
+  margin:145px 0 0 140px; 
+  -webkit-transition: all 1000ms ease-out; 
+  transition: all 1000ms ease-out; 
+ }
+ #photo img:hover {
+  opacity: 1;
+  -webkit-transform: rotate(360deg) scale(2) ;
+  transform: rotate(36deg) scale(2);
+ } 
+ #hovertxt {
+  font: bold 110% arial;
+  position: relative;
+  top:-153px; 
+  left: 210px;
+ }
+ #attribution {
+  position: relative;
+  top: 100px;
+  left: 200px;
